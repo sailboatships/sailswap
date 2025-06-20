@@ -211,7 +211,7 @@ export default function Home() {
             )}
           </div>
 
-          {/* Auto-select input, like WHERE value < @threshold */}
+          {/* Auoto-select input, like WHERE value < @threshold */}
           <div className="bg-gray-800 p-4 rounded-lg">
             <TextField
               label="Auto-select tokens below (ETH)"
